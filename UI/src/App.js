@@ -16,7 +16,7 @@ function App() {
     };
 
     // POST request to API to get sentiment and confidence score
-    fetch("http://192.168.0.15:8080/analyze/", {
+    fetch("http://localhost:8080/analyze/", {
       method: "POST",
       body: JSON.stringify(payload),
       headers: {
