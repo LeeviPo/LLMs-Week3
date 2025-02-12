@@ -1,0 +1,23 @@
+# Flask for the API server
+Flask
+
+# Flask-CORS for handling cross-origin requests
+flask-cors
+
+# Transformers for model inference and fine-tuning
+transformers
+
+# PyTorch, used by transformers for deep learning operations
+torch
+
+# Groq library for accessing the Groq Cloud API
+groq
+
+# Pandas for data processing in Jupyter notebooks
+pandas
+
+# Scikit-learn for evaluation metrics (e.g., accuracy, precision, recall, F1-score)
+scikit-learn
+
+# NumPy for numerical computations (dependency for many libraries)
+numpy
